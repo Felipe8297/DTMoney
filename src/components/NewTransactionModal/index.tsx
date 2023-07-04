@@ -14,6 +14,8 @@ import { zodResolver } from '@hookform/resolvers/zod'
 import { TransactionsContext } from '../../contexts/TransactionsContext'
 import { useContextSelector } from 'use-context-selector'
 
+// zod schema
+
 const newTransactionFormSchema = z.object({
   description: z.string(),
   price: z.number(),

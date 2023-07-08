@@ -30,3 +30,5 @@ O DT Money é uma aplicação de controle financeiro que permite gerenciar recei
 - Validação de formulários utilizando o React Hook Form e a biblioteca Zod.
 - Compartilhamento de informações entre componentes utilizando a Context API.
 - Otimização de desempenho através do uso de useCallback, memo e useMemo.
+
+  ![DTMoney](https://github.com/Felipe8297/DTMoney/assets/60430412/85f482ea-6a90-48e6-aa01-b92c6edaee86)
